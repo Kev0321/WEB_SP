@@ -116,7 +116,7 @@ section {
 /* Hero */
 #hero {
   background: linear-gradient(to right, #181f34, rgba(27, 31, 52, 0)),
-    url(../../Images/img2.jpg);
+    url(../Images/img2.jpg);
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -231,7 +231,7 @@ section {
 
 #booking {
   background: linear-gradient(to right, rgba(27, 31, 52, 0.8), rgba(27, 31, 52, 0.8)),
-    url(../../Images/img1.jpg);
+    url(../Images/img1.jpg);
   background-size: cover;
   background-position: center;
 }

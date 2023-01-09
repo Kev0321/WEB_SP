@@ -38,6 +38,7 @@ class MyDatabase
     {
         $table_name = "customers";
 
+        /* Preventing SQL injection. */
         $q = "INSERT INTO $table_name (first_name, last_name, email, day) VALUES (:first_name, :last_name, :email, :day);";
         $res = $this->pdo->prepare($q);
         $res->bindValue(":first_name", $first_name);
