@@ -1,2 +1,2 @@
 # WEB_SP
-Missing folder: Node_modules (bootstrap, popper, jquery, font-awesome)
+IN ZIP missing folder: Node_modules (bootstrap, popper, jquery, font-awesome)
